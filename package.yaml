@@ -35,6 +35,7 @@ executables:
     - -with-rtsopts=-N
     dependencies:
     - advent-of-code2020
+    - containers
 
 tests:
   advent-of-code2020-test:
